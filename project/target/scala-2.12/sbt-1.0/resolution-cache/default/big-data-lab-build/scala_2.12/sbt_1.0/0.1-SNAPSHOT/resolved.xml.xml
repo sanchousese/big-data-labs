@@ -4,7 +4,7 @@
 		module="big-data-lab-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171201173917"
+		publication="20180130152034"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
